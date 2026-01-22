@@ -15,49 +15,16 @@ I enjoy learning new technologies, contributing to projects, and building practi
 
 - 🎓 **Current Year:** 2nd Year B.E. (CSE)
 
-- 🌱 **Currently learning:**  
-  <img src="https://img.shields.io/badge/Programming-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Frontend-ff69b4?style=for-the-badge&logo=react&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Backend-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/ML%20Basics-6A5ACD?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+- 🌱 **Currently learning:**   <img src="https://img.shields.io/badge/Programming-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Frontend-ff69b4?style=for-the-badge&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Backend-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/ML%20Basics-6A5ACD?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 
-- 👯 **Looking to collaborate on:**  
-  <img src="https://img.shields.io/badge/Full--Stack-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Open--Source-3DA639?style=for-the-badge&logo=github&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Data--Driven-FF6F00?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+- 👯 **Looking to collaborate on:**  <img src="https://img.shields.io/badge/Full--Stack-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>  <img src="https://img.shields.io/badge/Open--Source-3DA639?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Data--Driven-FF6F00?style=for-the-badge&logo=apachekafka&logoColor=white"/>
 
-- 🤔 **Looking for help with:**  
-  <img src="https://img.shields.io/badge/DSA-00599C?style=for-the-badge&logo=leetcode&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/System%20Design-231F20?style=for-the-badge&logo=nginx&logoColor=white"/>
+- 🤔 **Looking for help with:**  <img src="https://img.shields.io/badge/DSA-00599C?style=for-the-badge&logo=leetcode&logoColor=white"/>  <img src="https://img.shields.io/badge/System%20Design-231F20?style=for-the-badge&logo=nginx&logoColor=white"/>
 
-- 💬 **Ask me about:**  
-  <img src="https://img.shields.io/badge/Programming-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Web%20Development-ff69b4?style=for-the-badge&logo=react&logoColor=white"/>
+- 💬 **Ask me about:**   <img src="https://img.shields.io/badge/Programming-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>  <img src="https://img.shields.io/badge/Web%20Development-ff69b4?style=for-the-badge&logo=react&logoColor=white"/>
 
 - 😄 **Pronouns:** she / her  
 - ⚡ **Fun fact:** I learn best by building projects and experimenting 🚀
-
----
-
-## 🏆 GitHub Profile Trophy
-
-<p align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Akriti-bhardwaj&no-bg=true&no-frame=true&theme=alduin"/>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LINKEDIN-DAC6C2?style=for-the-badge&logo=linkedin&logoColor=black"/>
-  </a>
-  <a href="https://discord.com/">
-    <img src="https://img.shields.io/badge/DISCORD-DAC6C2?style=for-the-badge&logo=discord&logoColor=black"/>
-  </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-DAC6C2?style=for-the-badge&logo=gmail&logoColor=black"/>
-  </a>
-</p>
-
----
 
 # 💻 Tech Stack:
 
@@ -78,6 +45,18 @@ I enjoy learning new technologies, contributing to projects, and building practi
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Akriti-bhardwaj&theme=dark" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Akriti-bhardwaj&show_icons=true&theme=radical" width="48%"/>
+</p>
+
+---
+
+---
+<p align="center">
+  <a href="https://www.linkedin.com/in/akriti-bhardwaj-470426330/">
+    <img src="https://img.shields.io/badge/LINKEDIN-DAC6C2?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  </a>
+  <a href="mailto:24bcs12979@cuchd.in">
+    <img src="https://img.shields.io/badge/EMAIL-DAC6C2?style=for-the-badge&logo=gmail&logoColor=black"/>
+  </a>
 </p>
 
 ---
