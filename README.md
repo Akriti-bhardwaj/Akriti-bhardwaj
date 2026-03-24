@@ -7,14 +7,13 @@
 
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/master/assets/straight_line.gif" width="80%" />
 
-🌷 **Turning ideas into meaningful tech** 🌷
 
 ---
 
 ### 🧠 The Profile
 | 🎓 Education | 🤎 Focus | ✨ Philosophy |
 | :--- | :--- | :--- |
-| 2nd Year CSE Student | **ML + Backend** | "Simple, Clean, Effective" |
+| 2nd Year CSE Student | **ML + Frontend +Backend** | "Simple, Clean, Effective" |
 
 </div>
 
