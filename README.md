@@ -5,7 +5,7 @@
 
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/master/assets/straight_line.gif" width="100%" />
 
-> Building systems that are not just functional, but intelligent.
+
 
 </div>
 
