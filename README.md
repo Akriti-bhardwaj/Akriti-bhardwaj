@@ -1,62 +1,80 @@
+<!-- ══════════════════════════════════════════════════════ -->
+<!--                AKRITI BHARDWAJ · GitHub Profile        -->
+<!-- ══════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-# ✧･ﾟ: *✧･ﾟ Akriti Bhardwaj ･ﾟ✧*:･ﾟ✧
-<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=25&duration=3000&pause=1000&color=6F4E37&center=true&vCenter=true&width=500&lines=Building+Something;Exploring;Learning" />
+# Hi, I'm Akriti 👋
 
-<br/>
+**CS student building systems that think, organise, and connect.**
 
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/master/assets/straight_line.gif" width="80%" />
-
-
----
-
-### 🧠 The Profile
-| 🎓 Education | 🤎 Focus | ✨ Philosophy |
-| :--- | :--- | :--- |
-| 2nd Year CSE Student | **ML + Frontend +Backend** | "Simple, Clean, Effective" |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akriti-bhardwaj-470426330/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Akriti-bhardwaj)
 
 </div>
 
 ---
 
-### 🛠 Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-6F4E37?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-BC987E?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ML-3E2723?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-D2B48C?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-C8A27C?style=for-the-badge&logo=html5&logoColor=white"/>
-</p>
+## About me
+
+2nd-year CS student. I build things with Python, dabble in ML, and like my databases normalised and my code readable.
 
 ---
 
-### ☕ Featured Work
-| 📰 NewsFeed System | 📊 Job Skills Analyzer |
-| :--- | :--- |
-| NLP-based cleaning & ranking system that aggregates news. | Visualizing market trends using Python & SQLite. |
-| [Explore NewsFeed →](https://github.com/Akriti-bhardwaj/newsfeed) | [View Project →](https://github.com/Akriti-bhardwaj) |
+## Tech stack
 
-| 🏠 Hostel Management | 🤝 AIRA Project |
-| :--- | :--- |
-| A Streamlit-based mini project for clean data handling. | Intelligent collaboration system and team-based features. |
-| [View Project →](https://github.com/Akriti-bhardwaj) | [See Contribution →](https://github.com/Akriti-bhardwaj) |
+**Languages**
+`Python` `C++` `JavaScript` `Solidity` `SQL` `HTML/CSS`
+
+**Libraries & Frameworks**
+`Streamlit` `Flask` `scikit-learn` `matplotlib` `SQLite`
+
+**Areas of interest**
+`Machine Learning` `Database Systems` `NLP` `Blockchain` `Data Visualisation`
 
 ---
 
-### 📈 GitHub Energy
+## Projects
+
+*Sorted by most recently updated*
+
+| Updated | Project | What it does | Stack |
+|---|---|---|---|
+| Mar 2026 | [**Hecate**](https://github.com/Akriti-bhardwaj/Hecate) | Intelligent collaboration & team-based features | JavaScript |
+| Mar 2026 | [**NewsFeed NLP System**](https://github.com/Akriti-bhardwaj/newsfeed) | Aggregates & ranks news with NLP-based cleaning | Python · HTML |
+| Dec 2025 | [**Blockchain Certificate Verification**](https://github.com/Akriti-bhardwaj/Blockchain-Certificate-Verification) | Tamper-proof credential system on-chain | Solidity |
+| Dec 2025 | [**Job Skill Analyser**](https://github.com/Akriti-bhardwaj/job_skill_analyser) | Mines job descriptions to surface in-demand skills | Python · SQLite · matplotlib |
+| Dec 2025 | [**Hostel Management System**](https://github.com/Akriti-bhardwaj/hostel-management-system) | Student records, entry/exit logs, leave & analytics | Python · Streamlit · SQLite |
+| Nov 2025 | [**Parent-Child Emotional Simulation**](https://github.com/Akriti-bhardwaj/parent-child-emotional-simulation) | Visualises emotional dynamics during exam prep | Flask · HTML |
+| — | [**AIRA**](https://github.com/abhishekk-y/AIRA) *(collaborator)* | Intelligent collaboration system with team features | — |
+
+---
+
+## GitHub stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akriti-bhardwaj&show_icons=true&hide_border=true&bg_color=fffaf0&title_color=6F4E37&text_color=8B735B&icon_color=BC987E&border_radius=10" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akriti-bhardwaj&hide_border=true&background=fffaf0&ring=6F4E37&fire=BC987E&currStreakNum=8B735B&border_radius=10" width="48%" />
+
+![Akriti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akriti-bhardwaj&show_icons=true&hide_border=true&bg_color=ffffff&title_color=534AB7&text_color=444441&icon_color=5DCAA5&border_radius=10)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akriti-bhardwaj&layout=compact&hide_border=true&bg_color=ffffff&title_color=534AB7&text_color=444441&border_radius=10)
+
 </div>
 
 ---
 
+## Currently exploring
+
+- 🤖 Going deeper into ML — model evaluation, feature engineering, real datasets
+- ⛓️ Smart contract security and decentralised applications
+- 🏗️ Building full-stack projects end-to-end
+- 📚 Data structures & algorithms (the grind continues)
+
+---
+
 <div align="center">
 
-### 📫 Let’s Connect
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-6F4E37?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/Akriti-bhardwaj"><img src="https://img.shields.io/badge/GitHub-BC987E?style=for-the-badge&logo=github&logoColor=white"/></a>
+**Open to collaborations, feedback, and interesting conversations. Say hello!**
 
-<br/>
-<img src="https://capsule-render.vercel.app/render?type=soft&color=D2B48C&height=50&section=footer" width="100%"/>
+[![LinkedIn](https://img.shields.io/badge/Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akriti-bhardwaj-470426330/)
+
 </div>
