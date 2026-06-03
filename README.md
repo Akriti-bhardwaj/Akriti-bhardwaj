@@ -25,7 +25,7 @@
 ## Tech stack
 
 **Languages**
-`Python` `C++` `JavaScript` `Solidity` `SQL` `HTML/CSS`
+`Python` `C++` `JavaScript` `SQL` `HTML/CSS`
 
 **Libraries & Frameworks**
 `Streamlit` `Flask` `scikit-learn` `matplotlib` `SQLite`
