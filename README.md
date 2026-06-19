@@ -2,7 +2,6 @@
   <tr>
     <td width="600">
       <h1>🦋 Hi, I'm Akriti</h1>
-      
     </td>
     <td width="160" align="center">
       <img width="140" src="https://raw.githubusercontent.com/Akriti-bhardwaj/Akriti-bhardwaj/main/butterfly.gif">
