@@ -2,7 +2,7 @@
   <tr>
     <td width="600">
       <h1>🦋 Hi, I'm Akriti</h1>
-      <em>A butterfly doesn't stop at one flower — neither do I stop at one stack, one problem, or one role.</em>
+      
     </td>
     <td width="160" align="center">
       <img width="140" src="https://raw.githubusercontent.com/Akriti-bhardwaj/Akriti-bhardwaj/main/butterfly.gif">
