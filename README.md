@@ -250,7 +250,7 @@ Leading a 6-person engineering team through the QA, documentation, and delivery 
 |---|---|
 | 🥇 **Smart India Hackathon 2025** | National-level hackathon — solved a real-world problem statement under a software engineering team track |
 | 🥈 **NIICS 2025** | Recognized at the National Innovation & Idea Competition for Students |
-| 🥉 **APEXATHON 2025** | Anchoring in a competitive technical hackathon event |
+| 🥉 **APEXATHON 2025** | Achievement in a competitive technical hackathon event |
 
 </div>
 
@@ -303,7 +303,7 @@ Leading a 6-person engineering team through the QA, documentation, and delivery 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Akriti-bhardwaj&show_icons=true&hide_border=true&bg_color=0F0524&title_color=B388FF&text_color=E6D9FF&icon_color=9D4EDD&border_radius=12"/>
 
-<img src="https://streak-stats.demolab.com/?user=Akriti-bhardwaj&hide_border=true&background=0F0524&ring=9D4EDD&fire=B388FF&currStreakLabel=B388FF&sideLabels=E6D9FF&dates=8A6DD1&border_radius=12"/>
+<img src="https://streak-stats.demolab.com/?user=Akriti-bhardwaj&hide_border=true&background=0F0524&ring=9D4EDD&fire=B388FF&currStreakLabel=B388FF&sideLabels=E6D9FF&dates=8A6DD1&currStreakNum=E6D9FF&sideNums=E6D9FF&border_radius=12"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akriti-bhardwaj&layout=compact&hide_border=true&bg_color=0F0524&title_color=B388FF&text_color=E6D9FF&border_radius=12"/>
 
