@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0524,50:4B0082,100:1A0A2E&height=260&section=header&text=Akriti%20Bhardwaj&fontSize=58&fontColor=E6D9FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Full%20Stack%20Developer&descAlignY=58&descAlign=50&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0524,50:4B0082,100:1A0A2E&height=260&section=header&text=Akriti%20Bhardwaj&fontSize=58&fontColor=E6D9FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descAlign=50&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=900&color=B388FF&center=true&vCenter=true&width=820&lines=Building+scalable%2C+production-grade+systems;Engineering+AI%2FML+%26+Full-Stack+Solutions;Team+Lead+%40+SMG+Employee+Management+Portal;Turning+Requirements+into+Reliable+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=900&color=B388FF&center=true&vCenter=true&width=820&lines=Building+scalable+web+applications;Engineering+reliable+full-stack+solutions;Turning+ideas+into+software" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -34,11 +34,11 @@
 
 <img align="right" width="280" src="https://capsule-render.vercel.app/api?type=transparent&height=140&text=%3C%2F%3E&fontSize=70&fontColor=9D4EDD&animation=twinkling"/>
 
-I'm a **Software Engineer in training** with a strong inclination toward **AI/ML systems**, **full-stack product engineering**, and **scalable backend architecture**. As **Team Lead of IT Intern Team 1** at SMG Ltd., I drive a 6-person engineering team through the full lifecycle of the **SMG-JUNE-2026 Employee Management Portal** — a production MERN-stack application — owning QA strategy, technical documentation, cross-functional coordination, and stakeholder reporting.
+I'm a Computer Science student with an interest in full-stack development, backend engineering, and building reliable software. I enjoy solving practical problems, writing clean code, and learning through real-world projects.
 
-My engineering philosophy centers on **precision, verifiability, and clean architecture**. I approach problems the way a QA-minded engineer should: assume nothing works until it's tested, document everything, and ship only what's verified. Alongside backend/frontend development, I actively explore **NLP pipelines, applied machine learning, and intelligent automation**, building toward a product engineering mindset that bridges technical execution with business impact.
+During my internship at SMG Ltd., I contributed to testing, documentation, bug reporting, and feature verification for an Employee Management Portal built using the MERN stack. I've also been serving as team lead for a small group of fellow interns on the same project, helping coordinate testing and reporting.
 
-**🔭 Currently:** Leading bug-resolution and QA sign-off across a 15-portal, 30-collection MERN application before deployment.
+**🔭 Currently:** Working on bug-resolution and QA sign-off across a 15-portal, 30-collection MERN application before deployment.
 
 **🌱 Open To:**
 
@@ -47,9 +47,8 @@ My engineering philosophy centers on **precision, verifiability, and clean archi
 | 🎯 | |
 |---|---|
 | 💼 | Software Engineering Internships / New Grad Roles |
-| 🤖 | AI/ML & NLP focused projects and research collaborations |
 | 🛠️ | Full-Stack Engineering (MERN, Python, Cloud) |
-| 🧩 | Open Source contributions in DevTools & ML tooling |
+| 🧩 | Open Source contributions in DevTools |
 
 </div>
 
@@ -74,26 +73,6 @@ My engineering philosophy centers on **precision, verifiability, and clean archi
 **Cloud, DevOps & Tooling**
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux,vercel,figma&theme=dark"/>
-
-**AI / ML & Data**
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,pandas,numpy&theme=dark"/>
-
-</div>
-
----
-
-## 🤖 AI / ML Expertise
-
-<div align="center">
-
-| Domain | Proficiency | Details |
-|---|---|---|
-| **Natural Language Processing** | ⭐⭐⭐⭐☆ | News aggregation & ranking system with NLP-based text cleaning, tokenization, and relevance scoring |
-| **Machine Learning Fundamentals** | ⭐⭐⭐⭐☆ | Scikit-Learn pipelines, feature engineering, model evaluation on real-world datasets |
-| **Data Visualization & Analysis** | ⭐⭐⭐⭐☆ | Matplotlib/Streamlit dashboards for job-market skill mining and analytics |
-| **Applied Statistics** | ⭐⭐⭐☆☆ | Statistical preprocessing and evaluation metrics for classification tasks |
-| **ML Tooling & Frameworks** | ⭐⭐⭐☆☆ | NLTK, Scikit-Learn, Streamlit-based deployment of ML demos |
 
 </div>
 
@@ -225,20 +204,20 @@ A socially-driven engineering project translating behavioral psychology concepts
 
 ## 💼 Experience
 
-**Team Leader — IT Intern Team 1**
+**IT Intern**
 **SMG Ltd. (SMG-JUNE-2026 Employee Management Portal)**
 `2026 — Present`
 
-Leading a 6-person engineering team through the QA, documentation, and delivery lifecycle of a full-stack MERN Employee Management Portal spanning 15 portals and ~30 MongoDB collections.
+Contributed to the QA, documentation, and delivery lifecycle of a full-stack MERN Employee Management Portal spanning 15 portals and ~30 MongoDB collections.
 
-- Designed and executed a comprehensive manual testing plan covering all portal modules and data collections
-- Diagnosed and resolved frontend-backend contract mismatches across Canteen, GuestHouse, Transport, SIM, and Asset Request modules
-- Fixed Dashboard-level UI defects including broken navigation states and Tailwind dynamic class rendering failures
-- Authored the formal Project Progress Report for SMG Ltd. stakeholders — including API status tables, team responsibilities, and sprint roadmap
+- Performed manual testing across multiple modules of the Employee Management Portal
+- Diagnosed and reported frontend-backend contract mismatches across Canteen, GuestHouse, Transport, SIM, and Asset Request modules
+- Verified fixes for Dashboard-level UI defects including broken navigation states and Tailwind dynamic class rendering failures
+- Contributed to the formal Project Progress Report for SMG Ltd. stakeholders — including API status tables and sprint roadmap
 - Maintained and corrected project README to reflect only verified, tested modules
-- Coordinated PR workflows as a contributor within the shared team repository
+- Worked with the development team to validate frontend and backend functionality through PR workflows
 
-`MERN Stack` `QA & Testing` `Technical Documentation` `Team Leadership` `Stakeholder Reporting` `Tailwind CSS` `MongoDB`
+`MERN Stack` `QA & Testing` `Technical Documentation` `Tailwind CSS` `MongoDB`
 
 ---
 
@@ -346,22 +325,19 @@ Leading a 6-person engineering team through the QA, documentation, and delivery 
 ```yaml
 current_focus:
   learning:
-    - Advanced NLP & applied machine learning pipelines
     - System design for scalable MERN applications
     - Cloud-native deployment patterns (AWS/Oracle Cloud)
 
   building:
-    - SMG-JUNE-2026 Employee Management Portal (QA & Documentation Lead)
-    - Personal AI/ML portfolio projects
+    - SMG-JUNE-2026 Employee Management Portal (QA & Documentation)
+    - Personal full-stack portfolio projects
 
   exploring:
     - Smart contract security & decentralized applications
-    - Editorial-grade computational photography (Python/OpenCV)
     - Production-grade testing strategy at scale
 
   open_to:
     - Software Engineering Internships
-    - AI/ML focused collaborations
     - Open Source contributions
 ```
 
